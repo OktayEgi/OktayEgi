@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OktayEgi
-- 👀 I’m interested in docker, K8S
+- 👀 I’m interested in Docker, K8S
 - 🌱 I’m currently learning Terraform
-
+- https://oktayegi.wordpress.com
 
 <!---
 OktayEgi/OktayEgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
