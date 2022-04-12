@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OktayEgi
-- 👀 I’m interested in Docker, K8S
+- 👀 I’m interested in Docker, K8S, AWS 
 - 🌱 I’m currently learning Terraform
 - https://oktayegi.wordpress.com
 
